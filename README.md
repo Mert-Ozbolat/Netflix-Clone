@@ -21,4 +21,7 @@ In this project, I recreated the interface of the popular video streaming platfo
 <hr>
 
 # 🚀Preview:
+<<<<<<< HEAD
 ![](./Netflix-Clone.gif)
+=======
+>>>>>>> df6464244909563ef028eb9aa6b3c7caac397b51
