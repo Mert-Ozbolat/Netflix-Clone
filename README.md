@@ -21,4 +21,4 @@ In this project, I recreated the interface of the popular video streaming platfo
 <hr>
 
 # 🚀Preview:
-![netflix-clone](./Netflix-Clone.gif)
+![](./Netflix-Clone.gif)
